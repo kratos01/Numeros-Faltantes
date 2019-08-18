@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author David Arias
+ * @author Julian David Arias
  */
 public class Vector {
 /**
